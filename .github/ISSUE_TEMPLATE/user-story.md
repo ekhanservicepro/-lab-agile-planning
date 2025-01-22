@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: this template is for user stories
+about: This is a template for creating user stories
 title: ''
 labels: ''
 assignees: ''
@@ -20,4 +20,3 @@ assignees: ''
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
- ```
